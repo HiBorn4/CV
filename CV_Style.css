@@ -1,0 +1,26 @@
+body {
+    background-color: #F9EBC8;
+}
+hr {
+    align-items: center;
+    background-color: #f6fe91;
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #393E46;
+    width : 10%;
+}
+
+img {
+    border-radius: 50%;
+}
+h1 {
+    color: #393E46;
+
+}
+h2 {
+    color: #393E46;
+}
+
+/* .Head {
+    background-color: aqua;
+} */
